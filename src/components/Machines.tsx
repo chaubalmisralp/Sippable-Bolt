@@ -6,7 +6,7 @@ const machines = [
     description: 'State-of-the-art touchscreen interface with customizable drink options. Perfect for high-traffic locations.',
     features: ['Touchscreen Display', 'Premium Espresso', '25+ Drink Options', 'Energy Efficient'],
     icon: Sparkles,
-    image: 'https://images.pexels.com/photos/6347995/pexels-photo-6347995.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://github.com/chaubalmisralp/Sippable-Bolt/blob/main/src/images/Evoke%2BCoffee%2BMachine%2BImage.webp?auto=compress&cs=tinysrgb&w=800',
   },
   {
     name: 'Coffee+',
