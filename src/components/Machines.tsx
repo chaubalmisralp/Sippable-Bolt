@@ -9,7 +9,7 @@ const machines = [
     image: 'https://github.com/chaubalmisralp/Sippable-Bolt/blob/main/src/images/Evoke%2BCoffee%2BMachine%2BImage.webp?auto=compress&cs=tinysrgb&w=800',
   },
   {
-    name: 'Coffee+',
+    name: 'Cofe+',
     description: 'Sleek design meets exceptional coffee quality. Ideal for modern offices and corporate environments.',
     features: ['Compact Design', 'Bean-to-Cup', 'Quick Service', 'Easy Maintenance'],
     icon: Coffee,
